@@ -15,8 +15,8 @@ Focus is on clean UI/UX, responsiveness, modular components using **Tailwind CSS
 ---
 
 ## **Setup**
-```bash
 git clone https://github.com/ajay23407/IELTS.git
 cd IELTS
 npm install
-npm start
+npm install framer-motion
+npm run dev
